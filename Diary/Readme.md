@@ -11,6 +11,6 @@
 
 
 ## 중간 발표 PPT
-[download_link](https://github.com/MarvinShin/UBION_Credit/blob/main/Diary/Dacon2_middle%20(1).pptx)
+[download_link](https://github.com/MarvinShin/UBION_Credit/blob/main/Diary/Dacon2_middle.pptx)
 ## 최종 발표 PPT
-[download_link](https://github.com/MarvinShin/UBION_Credit/blob/main/Diary/Dacon2_middle%20(1).pptx)
+[download_link](https://github.com/MarvinShin/UBION_Credit/blob/main/Diary/Dacon2_final.pptx)
